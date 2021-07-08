@@ -1,8 +1,8 @@
-# android-uikit-inside-fragment
+# Android UIKit inside a Fragment
 
 Sample Android project for showing it inside a Fragment.
 
-Make sure you edit this information from ```BaseApplication```
+Make sure you edit this information from ```BaseApplication``` and add your SendBird application ID, user ID and user nickname.
 ```
 SendBirdUIKit.init(new SendBirdUIKitAdapter() {
     @Override
