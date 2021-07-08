@@ -36,3 +36,8 @@ SendBirdUIKit.init(new SendBirdUIKitAdapter() {
     }
 }, this);
 ```
+
+[![See video tutorial](https://img.youtube.com/vi/VfZS47nuWi0/0.jpg)](https://www.youtube.com/watch?v=VfZS47nuWi0)
+
+
+
